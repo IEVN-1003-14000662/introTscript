@@ -20,3 +20,8 @@ console.table(mascotas);
 mascotas[1]='otro gato';
 mascotas.push('Perico rojo')
 console.table(mascotas);
+
+
+let nuevoArreglo:(number|string)[]=[]
+nuevoArreglo.push('rcr');
+nuevoArreglo.push(57812);
